@@ -1,0 +1,17 @@
+{
+  "name": "sanitize-filenames-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mjs",
+  "bin": {
+    "sanitize-filenames-cli": "./rename-files.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "filenamify": "^6.0.0"
+  }
+}
